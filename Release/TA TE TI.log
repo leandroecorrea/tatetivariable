@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\leand\OneDrive\Documentos\Image\tarea 8 mayo TA TE TI\TA TE TI\Main.cpp(40,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Generando código
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 244 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  TA TE TI.vcxproj -> C:\Users\leand\OneDrive\Documentos\Image\tarea 8 mayo TA TE TI\TA TE TI\Release\TA TE TI.exe
